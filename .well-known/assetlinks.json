@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.app",
-               "sha256_cert_fingerprints": ["hash_of_app_certificate"] }
+  "target" : { "namespace": "android_app", "package_name": "pe.itana.clone_ibk_app",
+               "sha256_cert_fingerprints": ["B3:53:52:0F:14:E2:24:59:D6:BB:5F:77:92:19:EB:62:F5:59:19:45:84:64:C0:AF:00:FE:70:D1:14:16:1E:E7"] }
 }]
